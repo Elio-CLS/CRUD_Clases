@@ -46,7 +46,7 @@ include('includes/nav.php');
         </div>
 
         <!-- Formulario muestra datos-->
-        <div class="col-md-8">
+        <div class="col-md-8" id="datos_buscador">
                 <table class="table table-bordered">
                     <thead>
                         <tr>
